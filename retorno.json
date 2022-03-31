@@ -10,4 +10,10 @@
             "exp": 1543625509
         }
     },
+	
+	"usuario": {
+        "id": 12,
+        "status": "ATIVO",
+        "dataCriacao": 1533154801920,
+        }
 }
