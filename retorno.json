@@ -1,6 +1,6 @@
-{ "squadName" : "Super Hero Squad",
+{
     "token": {
-        "valor": "eyJhbGciOiJIUzUxMiJ965566551651651Isw",
+        "valor": "eyJhbGciOiJIUzUxMiJ9.ey...Isw",
         "claims": {
             "logadoComCertificadoDigital": true,
             "sub": "12345678900",
@@ -10,28 +10,4 @@
             "exp": 1543625509
         }
     },
-    "usuario": {
-        "id": 12,
-        "status": "ATIVO",
-        "dataCriacao": 1533154801920,
-        },
-        "representacoes": [
-            {
-                "id": 21,
-                "status": "ATIVO",
-                "dataCriacao": 1541435231560,
-                },
-                "unidadeGestoraRepresentada": {
-                    "id": 198,
-                    "status": "ATIVO",
-                    
-                },
-                "dataInicioRepresentacao": "2018-01-01",
-                "dataFimRepresentacao": "2019-12-31",
-                
-            }
-        ],
-        "nome": "NOME DA PESSOA",
-        "cpfCnpj": "12345678900",
-    }
 }
