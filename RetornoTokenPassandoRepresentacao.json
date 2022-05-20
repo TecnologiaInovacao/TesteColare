@@ -1,0 +1,135 @@
+{
+	"token": {
+		"valor": "eyJhbGciOiJIUzUxMiJ9.eyJsb2dhZG9Db21DZXJ0aWZpY2Fkb0RpZ2l0YWwiOnRydWUsInN1YiI6Ijc4MjU2OTY4MTY4IiwiYXVkaWVuY2UiOiJ3ZWIiLCJjcmVhdGVkIjoxNjUzMDU5MjQxLCJyZXByZXNlbnRhY2FvIjo1NTAwNiwiZXhwIjoxNjUzMTAxOTk5fQ.SAmCucaT-j4ZAHPBDmjWq2RmuGOLindIFwjObDNE9sNLRPWIhybDRlKluxft02ePL93_CMFnEv4El3qgkYgXBw",
+		"claims": {
+			"logadoComCertificadoDigital": true,
+			"sub": "78256968168",
+			"audience": "web",
+			"created": 1653059241,
+			"representacao": 55006,
+			"exp": 1653101999
+		}
+	},
+	"usuario": {
+		"id": 36313,
+		"status": "ATIVO",
+		"dataCriacao": 1619807704613,
+		"dataAlteracao": 1652977762543,
+		"usuario": "78256968168",
+		"representacoes": [
+			{
+				"id": 55006,
+				"status": "ATIVO",
+				"dataCriacao": 1619807861053,
+				"dataAlteracao": 1652983366067,
+				"aprovacaoStatus": {
+					"enumValue": "APROVADO",
+					"enumLabel": "APROVADO"
+				},
+				"dataAlteracaoAprovacaoStatus": 1652983366067,
+				"representante": {
+					"id": 37192,
+					"status": "ATIVO",
+					"dataCriacao": 1619807477483,
+					"dataAlteracao": 1652977762543,
+					"usuarioCriacao": {
+						"id": 850,
+						"status": "ATIVO",
+						"nome": "ADRIAM RODRIGUES DA SILVA"
+					},
+					"usuarioAlteracao": {
+						"id": 36707,
+						"status": "ATIVO",
+						"nome": "VALTER FERRAZ SANCHES"
+					}
+				},
+				"unidadeGestoraRepresentada": {
+					"id": 3402,
+					"status": "ATIVO",
+					"dataCriacao": 1547750278170,
+					"dataAlteracao": 1548949424067,
+					"aprovacaoStatus": {
+						"enumValue": "APROVADO",
+						"enumLabel": "APROVADO"
+					},
+					"dataAlteracaoAprovacaoStatus": 1548949424067,
+					"tipo": {
+						"id": 10,
+						"status": "ATIVO",
+						"dataCriacao": 1531515579100,
+						"dataAlteracao": 1531515864927,
+						"descricao": "SOCIEDADE DE ECONOMIA MISTA",
+						"unidadeGestoraTipoConsorcio": false,
+						"unidadeOrcamentaria": false,
+						"usuarioCriacao": {
+							"id": 2,
+							"status": "ATIVO",
+							"nome": "VALERIA CORREDEIRA VIEIRA"
+						},
+						"usuarioAlteracao": {
+							"id": 2,
+							"status": "ATIVO",
+							"nome": "VALERIA CORREDEIRA VIEIRA"
+						}
+					},
+					"municipio": {
+						"id": 95,
+						"status": "ATIVO",
+						"nome": "GOIÂNIA",
+						"codigoIBGE": "08707"
+					},
+					"descricao": "Companhia de Urbanização de Goiânia - COMURG",
+					"usuarioCriacao": {
+						"id": 850,
+						"status": "ATIVO",
+						"nome": "ADRIAM RODRIGUES DA SILVA"
+					},
+					"usuarioAlteracao": {
+						"id": 3,
+						"status": "ATIVO",
+						"nome": "LUIZ CLAUDIO ARAUJO GOULART"
+					}
+				},
+				"perfil": {
+					"id": 13,
+					"status": "ATIVO",
+					"dataCriacao": 1534962133777,
+					"nome": "CHEFE DE RECURSOS HUMANOS / FOLHA DE PAGAMENTO",
+					"usuarioCriacao": {
+						"id": 1,
+						"status": "ATIVO",
+						"nome": "CEZAR AUGUSTO FERREIRA"
+					}
+				},
+				"dataInicioRepresentacao": "2021-04-13",
+				"dataFimRepresentacao": "2024-12-31",
+				"usuarioCriacao": {
+					"id": 850,
+					"status": "ATIVO",
+					"nome": "ADRIAM RODRIGUES DA SILVA"
+				},
+				"usuarioAlteracao": {
+					"id": 33976,
+					"status": "ATIVO",
+					"nome": "ROSANA ESTEVAM DE MATOS"
+				}
+			}
+		],
+		"nome": "RICARDO DE SOUZA ITACARAMBI",
+		"cpfCnpj": "78256968168",
+		"email": [
+			"ricardoitacarambi@gmail.com"
+		],
+		"username": "78256968168",
+		"usuarioCriacao": {
+			"id": 850,
+			"status": "ATIVO",
+			"nome": "ADRIAM RODRIGUES DA SILVA"
+		},
+		"usuarioAlteracao": {
+			"id": 36707,
+			"status": "ATIVO",
+			"nome": "VALTER FERRAZ SANCHES"
+		}
+	}
+}
